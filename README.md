@@ -1,1 +1,2 @@
-# AlphabetsWinter17
+# List of projects
+1. Alphabet frequency
